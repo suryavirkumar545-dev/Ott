@@ -27,7 +27,7 @@ ABYSS_API_KEY = "1ea21a974457135ef4e462b878d2be09"
 # ======================================================================== #
 #  2. ACCESS CONTROL
 # ======================================================================== #
-ADMIN_ID = 6881329740 7033830081          # only this Telegram user id can use the bot
+ADMIN_ID = 7033830081          # only this Telegram user id can use the bot
 RESTRICT_TO_ADMIN = True       # False = anyone can use the bot
 
 # ======================================================================== #
