@@ -1,0 +1,4 @@
+pytdbot==0.10.1
+tdjson==1.8.67
+aiohttp>=3.9,<4
+pytest>=8.0
