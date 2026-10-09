@@ -1,4 +1,4 @@
-# RS ABYSS UPLOADER BOT
+# SK ABYSS UPLOADER BOT
 
 Telegram → Abyss.to uploader built with **Pytdbot + TDLib** (asyncio, aiohttp).
 
